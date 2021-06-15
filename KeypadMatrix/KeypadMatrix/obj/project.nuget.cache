@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "30gGp2D7ir597CfehWhAzVnvUa5yY+KGZQagFmW9HQn5RrKi9H7AQA6lLoE3Qh8e9EYaSUcwXO4emkMQYEqcNQ==",
+  "dgSpecHash": "Z9SG72/+5ZN1vBUf+NOPkbNzyywGGk8MZ6o43APRwEnA8lTdkn6eXQ3J6ZW8mbNgh4QuvAnXCjFSJd31hGg2rw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mkyle\\source\\repos\\IoTPlayTime\\LCDScreen\\LCDScreen\\LCDScreen.csproj",
+  "projectFilePath": "C:\\Users\\mkyle\\source\\repos\\IoTPlayTime\\KeypadMatrix\\KeypadMatrix\\KeypadMatrix.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mkyle\\.nuget\\packages\\iot.device.bindings\\1.4.0\\iot.device.bindings.1.4.0.nupkg.sha512",
     "C:\\Users\\mkyle\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",

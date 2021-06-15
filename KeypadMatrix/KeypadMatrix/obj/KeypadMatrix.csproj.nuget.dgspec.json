@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mkyle\\source\\repos\\IoTPlayTime\\Banana\\Banana\\Banana.csproj": {}
+    "C:\\Users\\mkyle\\source\\repos\\IoTPlayTime\\KeypadMatrix\\KeypadMatrix\\KeypadMatrix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mkyle\\source\\repos\\IoTPlayTime\\Banana\\Banana\\Banana.csproj": {
+    "C:\\Users\\mkyle\\source\\repos\\IoTPlayTime\\KeypadMatrix\\KeypadMatrix\\KeypadMatrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mkyle\\source\\repos\\IoTPlayTime\\Banana\\Banana\\Banana.csproj",
-        "projectName": "Banana",
-        "projectPath": "C:\\Users\\mkyle\\source\\repos\\IoTPlayTime\\Banana\\Banana\\Banana.csproj",
+        "projectUniqueName": "C:\\Users\\mkyle\\source\\repos\\IoTPlayTime\\KeypadMatrix\\KeypadMatrix\\KeypadMatrix.csproj",
+        "projectName": "KeypadMatrix",
+        "projectPath": "C:\\Users\\mkyle\\source\\repos\\IoTPlayTime\\KeypadMatrix\\KeypadMatrix\\KeypadMatrix.csproj",
         "packagesPath": "C:\\Users\\mkyle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mkyle\\source\\repos\\IoTPlayTime\\Banana\\Banana\\obj\\",
+        "outputPath": "C:\\Users\\mkyle\\source\\repos\\IoTPlayTime\\KeypadMatrix\\KeypadMatrix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Iot.Device.Bindings": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "System.Device.Gpio": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

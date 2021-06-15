@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mkyle\\source\\repos\\LCDScreen\\LCDScreen\\LCDScreen.csproj": {}
+    "C:\\Users\\mkyle\\source\\repos\\IoTPlayTime\\LCDScreen\\LCDScreen\\LCDScreen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mkyle\\source\\repos\\LCDScreen\\LCDScreen\\LCDScreen.csproj": {
+    "C:\\Users\\mkyle\\source\\repos\\IoTPlayTime\\LCDScreen\\LCDScreen\\LCDScreen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mkyle\\source\\repos\\LCDScreen\\LCDScreen\\LCDScreen.csproj",
+        "projectUniqueName": "C:\\Users\\mkyle\\source\\repos\\IoTPlayTime\\LCDScreen\\LCDScreen\\LCDScreen.csproj",
         "projectName": "LCDScreen",
-        "projectPath": "C:\\Users\\mkyle\\source\\repos\\LCDScreen\\LCDScreen\\LCDScreen.csproj",
+        "projectPath": "C:\\Users\\mkyle\\source\\repos\\IoTPlayTime\\LCDScreen\\LCDScreen\\LCDScreen.csproj",
         "packagesPath": "C:\\Users\\mkyle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mkyle\\source\\repos\\LCDScreen\\LCDScreen\\obj\\",
+        "outputPath": "C:\\Users\\mkyle\\source\\repos\\IoTPlayTime\\LCDScreen\\LCDScreen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
