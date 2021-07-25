@@ -10,7 +10,7 @@ namespace PWM_LED
         static void Main(string[] args)
         {
 
-            var pwm = PwmChannel.Create(0,0,400,.1);
+            var pwm = PwmChannel.Create(0,0,50,.1);
             pwm.Start();
 
             while(true)
