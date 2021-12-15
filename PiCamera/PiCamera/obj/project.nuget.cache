@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "p2NoZTsgFAmJxdCl3OOIHdFJDAZQFmm+76GFL2dHwm4ZONiL6TJZp8FdnKXchv6+ej+UzlJ2MQ0Ewwld6n8iTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mkyle\\source\\repos\\IoTPlayTime\\PiCamera\\PiCamera\\PiCamera.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mkyle\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mkyle\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\mkyle\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\mkyle\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\mkyle\\.nuget\\packages\\mmalsharp\\0.6.0\\mmalsharp.0.6.0.nupkg.sha512",
+    "C:\\Users\\mkyle\\.nuget\\packages\\mmalsharp.common\\0.6.0\\mmalsharp.common.0.6.0.nupkg.sha512",
+    "C:\\Users\\mkyle\\.nuget\\packages\\mmalsharp.processing\\0.6.0\\mmalsharp.processing.0.6.0.nupkg.sha512",
+    "C:\\Users\\mkyle\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\mkyle\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\mkyle\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-arm\\5.0.8\\microsoft.netcore.app.runtime.linux-arm.5.0.8.nupkg.sha512",
+    "C:\\Users\\mkyle\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm\\5.0.8\\microsoft.aspnetcore.app.runtime.linux-arm.5.0.8.nupkg.sha512",
+    "C:\\Users\\mkyle\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm\\5.0.8\\microsoft.netcore.app.host.linux-arm.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

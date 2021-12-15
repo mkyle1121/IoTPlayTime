@@ -1,0 +1,1514 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0/linux-arm",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {},
+    ".NETCoreApp,Version=v5.0/linux-arm": {
+      "PiCamera/1.0.0": {
+        "dependencies": {
+          "MMALSharp": "0.6.0",
+          "MMALSharp.Common": "0.6.0",
+          "runtimepack.Microsoft.NETCore.App.Runtime.linux-arm": "5.0.8"
+        },
+        "runtime": {
+          "PiCamera.dll": {}
+        }
+      },
+      "runtimepack.Microsoft.NETCore.App.Runtime.linux-arm/5.0.8": {
+        "runtime": {
+          "Microsoft.CSharp.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "Microsoft.VisualBasic.Core.dll": {
+            "assemblyVersion": "10.0.6.0",
+            "fileVersion": "11.0.821.31504"
+          },
+          "Microsoft.VisualBasic.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "Microsoft.Win32.Primitives.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "Microsoft.Win32.Registry.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.AppContext.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Buffers.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Collections.Concurrent.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Collections.Immutable.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Collections.NonGeneric.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Collections.Specialized.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Collections.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.ComponentModel.Annotations.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.ComponentModel.DataAnnotations.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.ComponentModel.EventBasedAsync.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.ComponentModel.Primitives.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.ComponentModel.TypeConverter.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.ComponentModel.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Configuration.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Console.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Core.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Data.Common.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Data.DataSetExtensions.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Data.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Diagnostics.Contracts.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Diagnostics.Debug.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Diagnostics.DiagnosticSource.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Diagnostics.FileVersionInfo.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Diagnostics.Process.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Diagnostics.StackTrace.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Diagnostics.TextWriterTraceListener.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Diagnostics.Tools.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Diagnostics.TraceSource.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Diagnostics.Tracing.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Drawing.Primitives.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Drawing.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Dynamic.Runtime.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Formats.Asn1.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Globalization.Calendars.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Globalization.Extensions.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Globalization.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.IO.Compression.Brotli.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.IO.Compression.FileSystem.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.IO.Compression.ZipFile.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.IO.Compression.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.IO.FileSystem.AccessControl.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.IO.FileSystem.DriveInfo.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.IO.FileSystem.Primitives.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.IO.FileSystem.Watcher.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.IO.FileSystem.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.IO.IsolatedStorage.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.IO.MemoryMappedFiles.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.IO.Pipes.AccessControl.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.IO.Pipes.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.IO.UnmanagedMemoryStream.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.IO.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Linq.Expressions.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Linq.Parallel.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Linq.Queryable.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Linq.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Memory.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Net.Http.Json.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Net.Http.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Net.HttpListener.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Net.Mail.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Net.NameResolution.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Net.NetworkInformation.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Net.Ping.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Net.Primitives.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Net.Requests.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Net.Security.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Net.ServicePoint.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Net.Sockets.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Net.WebClient.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Net.WebHeaderCollection.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Net.WebProxy.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Net.WebSockets.Client.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Net.WebSockets.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Net.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Numerics.Vectors.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Numerics.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.ObjectModel.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Private.DataContractSerialization.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Private.Uri.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Private.Xml.Linq.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Private.Xml.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Reflection.DispatchProxy.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Reflection.Emit.ILGeneration.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Reflection.Emit.Lightweight.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Reflection.Emit.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Reflection.Extensions.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Reflection.Metadata.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Reflection.Primitives.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Reflection.TypeExtensions.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Reflection.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Resources.Reader.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Resources.ResourceManager.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Resources.Writer.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "System.Runtime.CompilerServices.VisualC.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Runtime.Extensions.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Runtime.Handles.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Runtime.InteropServices.RuntimeInformation.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Runtime.InteropServices.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Runtime.Intrinsics.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Runtime.Loader.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Runtime.Numerics.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Runtime.Serialization.Formatters.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Runtime.Serialization.Json.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Runtime.Serialization.Primitives.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Runtime.Serialization.Xml.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Runtime.Serialization.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Runtime.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Security.AccessControl.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Security.Claims.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Security.Cryptography.Algorithms.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Security.Cryptography.Cng.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Security.Cryptography.Csp.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Security.Cryptography.Encoding.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Security.Cryptography.OpenSsl.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Security.Cryptography.Primitives.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Security.Cryptography.X509Certificates.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Security.Principal.Windows.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Security.Principal.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Security.SecureString.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Security.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.ServiceModel.Web.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.ServiceProcess.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Text.Encoding.CodePages.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Text.Encoding.Extensions.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Text.Encoding.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Text.Encodings.Web.dll": {
+            "assemblyVersion": "5.0.0.1",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Text.Json.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Text.RegularExpressions.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Threading.Channels.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Threading.Overlapped.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Threading.Tasks.Dataflow.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Threading.Tasks.Extensions.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Threading.Tasks.Parallel.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Threading.Tasks.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Threading.Thread.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Threading.ThreadPool.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Threading.Timer.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Threading.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Transactions.Local.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Transactions.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.ValueTuple.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Web.HttpUtility.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Web.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Windows.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Xml.Linq.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Xml.ReaderWriter.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Xml.Serialization.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Xml.XDocument.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Xml.XPath.XDocument.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Xml.XPath.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Xml.XmlDocument.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Xml.XmlSerializer.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Xml.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "WindowsBase.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "mscorlib.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "netstandard.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "5.0.821.31504"
+          },
+          "System.Private.CoreLib.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.821.31504"
+          }
+        },
+        "native": {
+          "createdump": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libSystem.IO.Compression.Native.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libSystem.IO.Compression.Native.so": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libSystem.Native.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libSystem.Native.so": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libSystem.Net.Security.Native.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libSystem.Net.Security.Native.so": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libSystem.Security.Cryptography.Native.OpenSsl.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libSystem.Security.Cryptography.Native.OpenSsl.so": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libclrjit.so": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libcoreclr.so": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libcoreclrtraceptprovider.so": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libdbgshim.so": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libhostfxr.so": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libhostpolicy.so": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libmscordaccore.so": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libmscordbi.so": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Microsoft.Extensions.Logging.Abstractions/3.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.100.19.56504"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.1.0": {},
+      "Microsoft.Win32.SystemEvents/4.7.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "MMALSharp/0.6.0": {
+        "dependencies": {
+          "MMALSharp.Common": "0.6.0",
+          "MMALSharp.Processing": "0.6.0",
+          "Microsoft.CSharp": "4.7.0",
+          "Microsoft.Extensions.Logging.Abstractions": "3.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MMALSharp.dll": {
+            "assemblyVersion": "0.6.0.0",
+            "fileVersion": "0.6.0.0"
+          }
+        }
+      },
+      "MMALSharp.Common/0.6.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "3.1.0",
+          "System.Drawing.Common": "4.7.0",
+          "System.Numerics.Vectors": "4.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MMALSharp.Common.dll": {
+            "assemblyVersion": "0.6.0.0",
+            "fileVersion": "0.6.0.0"
+          }
+        }
+      },
+      "MMALSharp.Processing/0.6.0": {
+        "dependencies": {
+          "MMALSharp.Common": "0.6.0",
+          "Microsoft.Extensions.Logging.Abstractions": "3.1.0",
+          "System.Drawing.Common": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MMALSharp.Processing.dll": {
+            "assemblyVersion": "0.6.0.0",
+            "fileVersion": "0.6.0.0"
+          }
+        }
+      },
+      "System.Drawing.Common/4.7.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.Win32.SystemEvents": "4.7.0"
+        },
+        "runtime": {
+          "runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "System.Numerics.Vectors/4.4.0": {}
+    }
+  },
+  "libraries": {
+    "PiCamera/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.NETCore.App.Runtime.linux-arm/5.0.8": {
+      "type": "runtimepack",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jjo4YXRx6MIpv6DiRxJjSpl+sPP0+5VW0clMEdLyIAz44PPwrDTFrd5PZckIxIXl1kKZ2KK6IL2nkt0+ug2MQg==",
+      "path": "microsoft.extensions.logging.abstractions/3.1.0",
+      "hashPath": "microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z7aeg8oHln2CuNulfhiLYxCVMPEwBl3rzicjvIX+4sUuCwvXw5oXQEtbiU2c0z4qYL5L3Kmx0mMA/+t/SbY67w==",
+      "path": "microsoft.netcore.platforms/3.1.0",
+      "hashPath": "microsoft.netcore.platforms.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mtVirZr++rq+XCDITMUdnETD59XoeMxSpLRIII7JRI6Yj0LEDiO1pPn0ktlnIj12Ix8bfvQqQDMMIF9wC98oCA==",
+      "path": "microsoft.win32.systemevents/4.7.0",
+      "hashPath": "microsoft.win32.systemevents.4.7.0.nupkg.sha512"
+    },
+    "MMALSharp/0.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8lJnCShSfcsNbw9FxfPTVdLtrMNQUP6JCJVdU7DsIyE2URh/ZzaQC+AjqsWCKh38I6mn2XhT+Ufk2O98uQSW4w==",
+      "path": "mmalsharp/0.6.0",
+      "hashPath": "mmalsharp.0.6.0.nupkg.sha512"
+    },
+    "MMALSharp.Common/0.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YIHue1vQnubw4wt9x7o2MOHIFfn9Po6fB3gpv9yZAFjEZczhKU92ykaHim/iHp9SjdeSDjr+xbXlvFDmdoYvNg==",
+      "path": "mmalsharp.common/0.6.0",
+      "hashPath": "mmalsharp.common.0.6.0.nupkg.sha512"
+    },
+    "MMALSharp.Processing/0.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QlBqJcIeprHlWNKgWZmHzoOaUjoA/nj6EUAs1eX80dN12mqdaP3ZVdBisTU97ruN9O//hnWmvR1MA4SfeUwWmw==",
+      "path": "mmalsharp.processing/0.6.0",
+      "hashPath": "mmalsharp.processing.0.6.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-v+XbyYHaZjDfn0ENmJEV1VYLgGgCTx1gnfOBcppowbpOAriglYgGCvFCPr2EEZyBvXlpxbEsTwkOlInl107ahA==",
+      "path": "system.drawing.common/4.7.0",
+      "hashPath": "system.drawing.common.4.7.0.nupkg.sha512"
+    },
+    "System.Numerics.Vectors/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UiLzLW+Lw6HLed1Hcg+8jSRttrbuXv7DANVj0DkL9g6EnnzbL75EB7EWsw5uRbhxd/4YdG8li5XizGWepmG3PQ==",
+      "path": "system.numerics.vectors/4.4.0",
+      "hashPath": "system.numerics.vectors.4.4.0.nupkg.sha512"
+    }
+  },
+  "runtimes": {
+    "alpine-arm": [
+      "alpine",
+      "linux-musl-arm",
+      "linux-musl",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "alpine.3.10-arm": [
+      "alpine.3.10",
+      "alpine.3.9-arm",
+      "alpine.3.9",
+      "alpine.3.8-arm",
+      "alpine.3.8",
+      "alpine.3.7-arm",
+      "alpine.3.7",
+      "alpine.3.6-arm",
+      "alpine.3.6",
+      "alpine-arm",
+      "alpine",
+      "linux-musl-arm",
+      "linux-musl",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "alpine.3.11-arm": [
+      "alpine.3.11",
+      "alpine.3.10-arm",
+      "alpine.3.10",
+      "alpine.3.9-arm",
+      "alpine.3.9",
+      "alpine.3.8-arm",
+      "alpine.3.8",
+      "alpine.3.7-arm",
+      "alpine.3.7",
+      "alpine.3.6-arm",
+      "alpine.3.6",
+      "alpine-arm",
+      "alpine",
+      "linux-musl-arm",
+      "linux-musl",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "alpine.3.12-arm": [
+      "alpine.3.12",
+      "alpine.3.11-arm",
+      "alpine.3.11",
+      "alpine.3.10-arm",
+      "alpine.3.10",
+      "alpine.3.9-arm",
+      "alpine.3.9",
+      "alpine.3.8-arm",
+      "alpine.3.8",
+      "alpine.3.7-arm",
+      "alpine.3.7",
+      "alpine.3.6-arm",
+      "alpine.3.6",
+      "alpine-arm",
+      "alpine",
+      "linux-musl-arm",
+      "linux-musl",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "alpine.3.13-arm": [
+      "alpine.3.13",
+      "alpine.3.12-arm",
+      "alpine.3.12",
+      "alpine.3.11-arm",
+      "alpine.3.11",
+      "alpine.3.10-arm",
+      "alpine.3.10",
+      "alpine.3.9-arm",
+      "alpine.3.9",
+      "alpine.3.8-arm",
+      "alpine.3.8",
+      "alpine.3.7-arm",
+      "alpine.3.7",
+      "alpine.3.6-arm",
+      "alpine.3.6",
+      "alpine-arm",
+      "alpine",
+      "linux-musl-arm",
+      "linux-musl",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "alpine.3.6-arm": [
+      "alpine.3.6",
+      "alpine-arm",
+      "alpine",
+      "linux-musl-arm",
+      "linux-musl",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "alpine.3.7-arm": [
+      "alpine.3.7",
+      "alpine.3.6-arm",
+      "alpine.3.6",
+      "alpine-arm",
+      "alpine",
+      "linux-musl-arm",
+      "linux-musl",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "alpine.3.8-arm": [
+      "alpine.3.8",
+      "alpine.3.7-arm",
+      "alpine.3.7",
+      "alpine.3.6-arm",
+      "alpine.3.6",
+      "alpine-arm",
+      "alpine",
+      "linux-musl-arm",
+      "linux-musl",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "alpine.3.9-arm": [
+      "alpine.3.9",
+      "alpine.3.8-arm",
+      "alpine.3.8",
+      "alpine.3.7-arm",
+      "alpine.3.7",
+      "alpine.3.6-arm",
+      "alpine.3.6",
+      "alpine-arm",
+      "alpine",
+      "linux-musl-arm",
+      "linux-musl",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "android-arm": [
+      "android",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "android.21-arm": [
+      "android.21",
+      "android-arm",
+      "android",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "android.22-arm": [
+      "android.22",
+      "android.21-arm",
+      "android.21",
+      "android-arm",
+      "android",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "android.23-arm": [
+      "android.23",
+      "android.22-arm",
+      "android.22",
+      "android.21-arm",
+      "android.21",
+      "android-arm",
+      "android",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "android.24-arm": [
+      "android.24",
+      "android.23-arm",
+      "android.23",
+      "android.22-arm",
+      "android.22",
+      "android.21-arm",
+      "android.21",
+      "android-arm",
+      "android",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "android.25-arm": [
+      "android.25",
+      "android.24-arm",
+      "android.24",
+      "android.23-arm",
+      "android.23",
+      "android.22-arm",
+      "android.22",
+      "android.21-arm",
+      "android.21",
+      "android-arm",
+      "android",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "android.26-arm": [
+      "android.26",
+      "android.25-arm",
+      "android.25",
+      "android.24-arm",
+      "android.24",
+      "android.23-arm",
+      "android.23",
+      "android.22-arm",
+      "android.22",
+      "android.21-arm",
+      "android.21",
+      "android-arm",
+      "android",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "android.27-arm": [
+      "android.27",
+      "android.26-arm",
+      "android.26",
+      "android.25-arm",
+      "android.25",
+      "android.24-arm",
+      "android.24",
+      "android.23-arm",
+      "android.23",
+      "android.22-arm",
+      "android.22",
+      "android.21-arm",
+      "android.21",
+      "android-arm",
+      "android",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "android.28-arm": [
+      "android.28",
+      "android.27-arm",
+      "android.27",
+      "android.26-arm",
+      "android.26",
+      "android.25-arm",
+      "android.25",
+      "android.24-arm",
+      "android.24",
+      "android.23-arm",
+      "android.23",
+      "android.22-arm",
+      "android.22",
+      "android.21-arm",
+      "android.21",
+      "android-arm",
+      "android",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "android.29-arm": [
+      "android.29",
+      "android.28-arm",
+      "android.28",
+      "android.27-arm",
+      "android.27",
+      "android.26-arm",
+      "android.26",
+      "android.25-arm",
+      "android.25",
+      "android.24-arm",
+      "android.24",
+      "android.23-arm",
+      "android.23",
+      "android.22-arm",
+      "android.22",
+      "android.21-arm",
+      "android.21",
+      "android-arm",
+      "android",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "debian-arm": [
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "debian.10-arm": [
+      "debian.10",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "debian.8-arm": [
+      "debian.8",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "debian.9-arm": [
+      "debian.9",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "linux-arm": [
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "linux-musl-arm": [
+      "linux-musl",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "ubuntu-arm": [
+      "ubuntu",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "ubuntu.14.04-arm": [
+      "ubuntu.14.04",
+      "ubuntu-arm",
+      "ubuntu",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "ubuntu.14.10-arm": [
+      "ubuntu.14.10",
+      "ubuntu-arm",
+      "ubuntu",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "ubuntu.15.04-arm": [
+      "ubuntu.15.04",
+      "ubuntu-arm",
+      "ubuntu",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "ubuntu.15.10-arm": [
+      "ubuntu.15.10",
+      "ubuntu-arm",
+      "ubuntu",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "ubuntu.16.04-arm": [
+      "ubuntu.16.04",
+      "ubuntu-arm",
+      "ubuntu",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "ubuntu.16.10-arm": [
+      "ubuntu.16.10",
+      "ubuntu-arm",
+      "ubuntu",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "ubuntu.17.04-arm": [
+      "ubuntu.17.04",
+      "ubuntu-arm",
+      "ubuntu",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "ubuntu.17.10-arm": [
+      "ubuntu.17.10",
+      "ubuntu-arm",
+      "ubuntu",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "ubuntu.18.04-arm": [
+      "ubuntu.18.04",
+      "ubuntu-arm",
+      "ubuntu",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "ubuntu.18.10-arm": [
+      "ubuntu.18.10",
+      "ubuntu-arm",
+      "ubuntu",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "ubuntu.19.04-arm": [
+      "ubuntu.19.04",
+      "ubuntu-arm",
+      "ubuntu",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "ubuntu.19.10-arm": [
+      "ubuntu.19.10",
+      "ubuntu-arm",
+      "ubuntu",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "ubuntu.20.04-arm": [
+      "ubuntu.20.04",
+      "ubuntu-arm",
+      "ubuntu",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "ubuntu.20.10-arm": [
+      "ubuntu.20.10",
+      "ubuntu-arm",
+      "ubuntu",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "ubuntu.21.04-arm": [
+      "ubuntu.21.04",
+      "ubuntu-arm",
+      "ubuntu",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ],
+    "ubuntu.21.10-arm": [
+      "ubuntu.21.10",
+      "ubuntu-arm",
+      "ubuntu",
+      "debian-arm",
+      "debian",
+      "linux-arm",
+      "linux",
+      "unix-arm",
+      "unix",
+      "any",
+      "base"
+    ]
+  }
+}
